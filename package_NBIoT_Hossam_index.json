@@ -2,8 +2,8 @@
   "packages": [
     {
       "maintainer": "NBIoT-Hossam",
-      "websiteURL": "",
-      "email": "",
+      "websiteURL": "null",
+      "email": "null",
       "name": "NBIoT-Hossam",
       "platforms": [
         {
@@ -12,7 +12,7 @@
           "version": "1.0.6",
           "category": "Contributed",         
           "help": {
-            "online": ""
+            "online": "null"
           },
           "url": "https://github.com/slavaten/NBIoT-Hossam/NBIoT-Hossam-1.0.6.zip",
           "archiveFileName": "NBIoT-Hossam-1.0.6.zip",
